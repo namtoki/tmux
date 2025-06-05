@@ -1,1 +1,3 @@
-plu
+plugins/*
+!plugins/tpm/
+!plugins/tpm/**
